@@ -294,6 +294,8 @@ The Food Delivery Performance Analytics Dashboard provides a holistic view of de
 </a>
 </div>
 
+🤝 *Thanks for visiting my profile!*  
+
 <!-- ⭐💫 Shower stars if you like my repos -->
 <div align="center">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
@@ -302,9 +304,7 @@ The Food Delivery Performance Analytics Dashboard provides a holistic view of de
 </a>
 </div>
 
-🤝 *Thanks for visiting my profile!*  
-
-If you find this repository valuable, consider giving it a **Star** ⭐ on GitHub to support my work.  
+<!-- If you find this repository valuable, consider giving it a **Star** ⭐ on GitHub to support my work. --> 
 
 ---
 
