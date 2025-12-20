@@ -304,6 +304,9 @@ The Food Delivery Performance Analytics Dashboard provides a holistic view of de
 </a>
 </div>
 
+<!-- Typing Animation / 🤝 Thanks for Visiting! -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8A2BE2&lines=🤝Thank+you+for+visiting+my+GitHub+profile!)](https://git.io/typing-svg)
+
 <!-- If you find this repository valuable, consider giving it a **Star** ⭐ on GitHub to support my work. --> 
 
 ---
