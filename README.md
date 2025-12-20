@@ -277,7 +277,7 @@ The Food Delivery Performance Analytics Dashboard provides a holistic view of de
 <!-- 💼 LinkedIn -->
 <a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
 <!-- 📮 Gmail -->
-<a href="mailto:rajeevtiwari8055@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="35"></a>
+<a href="mailto:rajeevtiwari8055@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="40"></a>
 <!-- ✖️ X -->
 <a href="https://x.com/rajeevtiwariRT" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="35" height="35"></a>  
 <!-- 🆔 GitHub -->
