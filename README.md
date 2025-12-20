@@ -281,6 +281,60 @@ If you find this repository valuable, consider giving it a **Star** ⭐ on GitHu
 
 ---
 
+<!-- Typing Animation / 🤝 Connect with me -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0DAD8D&lines=Let’s+connect+and+collaborate+on+meaningful+projects!;Reach+me+via+X,+LinkedIn,+GitHub,+Email+or+my+Website+🌐;Click+the+buttons+below+to+connect+with+me+directly!)](https://git.io/typing-svg)
+
+<!-- Social Media Linkes -->
+<div align="center">
+ 
+[![X](https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rajeevtiwariRT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajeev-tiwari123)
+[![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajeevgit8055hub)
+[![Email](https://img.shields.io/badge/Email-B22222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeevtiwari8055@gmail.com)
+[![Website](https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)
+</div>
+
+<!-- ## 🤝 Contact me -->
+<div align="center">
+<!-- 💼 LinkedIn -->
+<a href="https://www.linkedin.com/in/rajeev-tiwari123"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="25" height="25"/></a>
+<!-- ✖️ X -->
+<a href="https://x.com/rajeevtiwariRT" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="X" width="30" height="30">
+</a>
+<!-- 🆔 GitHub -->
+<a href="https://github.com/rajeevgit8055hub" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="30" height="30">
+</a>
+<!-- 🌐 Website -->
+<a href="https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="30" height="30">
+</a>
+<!-- 🟢 ORCID -->
+ <a href="https://orcid.org/0009-0009-9505-3589" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="30" height="30">
+</a>
+<!-- 📮 Gmail -->
+<a href="mailto:rajeevtiwari8055@gmail.com" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30">
+</a>
+<!-- 🟩 HackerRank -->
+<a href="https://www.hackerrank.com/profile/rajeevtiwari8055" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajeev tiwari" height="30" width="30" /></a>
+<!-- <a href="https://www.hackerrank.com/profile/rajeevtiwari" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40">
+</a> -->
+<!-- 👤 Facebook -->
+<!-- <a href="https://www.facebook.com/rajeevtiwariRT" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="35" height="35">
+</a> 
+<!-- ♓ Instagram -->
+<!-- <a href="https://x.com/rajeevtiwariRT" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/15713/15713420.png" alt="X" width="35" height="35">
+</a> -->
+</div>
+
+
 ## <span id="dashboard-snapshot">🖼️ Dashboard Snapshot</span>
 
 _Above: A snapshot of the Food Delivery Performance Analytics dashboard showcasing KPIs, order insights, delivery efficiency, and revenue trends._
