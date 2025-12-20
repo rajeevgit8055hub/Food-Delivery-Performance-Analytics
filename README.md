@@ -294,9 +294,25 @@ The Food Delivery Performance Analytics Dashboard provides a holistic view of de
 </a>
 </div>
 
+<!-- ⭐💫 Shower stars if you like my repos -->
+<div align="center">
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30">
+<a href="https://github.com/rajeevgit8055hub/rajeevgit8055hub" alt="GitHub Stars" title="Star my repositories">
+<img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repositories-15k?style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
+</a>
+</div>
+
 🤝 *Thanks for visiting my profile!*  
 
 If you find this repository valuable, consider giving it a **Star** ⭐ on GitHub to support my work.  
+
+<img src="https://img.shields.io/badge/Thanks_for_visiting_my_profile!-Welcome 🤝-style=for-the-badge&color=0d1117&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/If_you_like_this_repo-Give_it_a_Star ⭐-style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Thanks_for_visiting-My_GitHub_Profile 🤝-style=for-the-badge&color=24292e&logo=github"/>
+
+<img src="https://img.shields.io/badge/Support_my_work-Star_the_repo ⭐-style=for-the-badge&color=f9c513&logo=github&logoColor=black"/>
 
 ---
 
